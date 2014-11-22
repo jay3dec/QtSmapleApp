@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2014-10-18T16:24:27
+# Project created by QtCreator 2014-11-22T13:55:14
 #
 #-------------------------------------------------
 
@@ -18,3 +18,7 @@ SOURCES += main.cpp\
 HEADERS  += calwidget.h
 
 FORMS    += calwidget.ui
+
+CONFIG += mobility
+MOBILITY = 
+
